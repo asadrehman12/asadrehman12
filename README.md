@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning How we can connect with Mathematics through Python
 
-- 👯 I’m looking for **Supervisor For my MS research**
+- 👯 Curious how mathematics is involved in **Data science and Machine Learning**
 
 - 💬 Ask me about **Mathematics**
 
